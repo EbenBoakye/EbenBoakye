@@ -1,7 +1,7 @@
 Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
-A full stack developer and an IT support specialist.
+A Software Engineer and an IT Support Specialist.
 ----------------------------------------------------
 
 I've been learning to code for the past 4 years now, and the journey has been exciting
