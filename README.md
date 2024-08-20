@@ -1,3 +1,4 @@
+
 Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
@@ -16,7 +17,7 @@ I've been learning to code for the past 4 years now, and the journey has been ex
 <a href="https://www.github.com/EbenBoakye" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/EbenBoakye?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
 
-### Skills
+### Languages, Framework and Tools
 
 
 <p align="left">
