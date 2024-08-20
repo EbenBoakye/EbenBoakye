@@ -53,9 +53,3 @@ src="https://img.shields.io/github/followers/EbenBoakye?logo=github&style=for-th
   </a>
 </div>
 
-
-
-
-
-
-![Snake animation](https://github.com/EbenBoakye/EbenBoakye/blob/output/github-contribution-grid-snake.svg)
