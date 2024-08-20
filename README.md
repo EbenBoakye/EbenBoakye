@@ -52,3 +52,10 @@ src="https://img.shields.io/github/followers/EbenBoakye?logo=github&style=for-th
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=Calories_Counter-master&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
+
+
+
+
+
+
+![Snake animation](https://github.com/EbenBoakye/EbenBoakye/blob/output/github-contribution-grid-snake.svg)
