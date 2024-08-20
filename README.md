@@ -14,8 +14,18 @@ I've been learning to code for the past 4 years now, and the journey has been ex
 * 🧠  I'm currently learning IT Security and Typescript
 * 🤝  I'm open to collaborating on interesting and innovative projects
 
-<a href="https://www.github.com/EbenBoakye" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/EbenBoakye?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
+<p align="left">
+  <a href="https://www.github.com/EbenBoakye" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/EbenBoakye?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.github.com/EbenBoakye" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ebenezer-boakye-033093247" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
 
 ## Languages Framework and Tools
 ----------------------------------------------------
@@ -29,7 +39,6 @@ src="https://img.shields.io/github/followers/EbenBoakye?logo=github&style=for-th
 
 <p align="left"> <a href="https://www.github.com/EbenBoakye" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ebenezer-boakye-033093247" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p></br>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
