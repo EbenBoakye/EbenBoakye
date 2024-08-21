@@ -36,7 +36,7 @@ I've been learning to code for the past 4 years now, and the journey has been ex
 </br>
 
 
-<b>My GitHub Stats</b>
+<p><h3>My GitHub Stats</h3></p>
 
 <div style="display: flex; justify-content: space-between;">
   <a href="http://www.github.com/EbenBoakye">
@@ -47,7 +47,14 @@ I've been learning to code for the past 4 years now, and the journey has been ex
   </a>
 </div>
 
-<b>Top Repositories</b>
+<p align=center><h3>Top Repositories</h3></p>
 
-<div width="100%" align="center"><a href="https://github.com/EbenBoakye/ShopByStock" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=ShopByStock&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EbenBoakye/Calories_Counter-master" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=Calories_Counter-master&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/EbenBoakye/ShopByStock" style="width: 45%; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=ShopByStock&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/EbenBoakye/Calories_Counter-master" style="width: 45%; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=Calories_Counter-master&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
 
