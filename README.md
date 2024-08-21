@@ -49,12 +49,5 @@ I've been learning to code for the past 4 years now, and the journey has been ex
 
 <b>Top Repositories</b>
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/EbenBoakye/ShopByStock">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=ShopByStock&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/EbenBoakye/Calories_Counter-master">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=Calories_Counter-master&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
+<div width="100%" align="center"><a href="https://github.com/EbenBoakye/ShopByStock" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=ShopByStock&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EbenBoakye/Calories_Counter-master" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=Calories_Counter-master&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
