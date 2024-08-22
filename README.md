@@ -32,8 +32,6 @@ Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/17
   </a>
 </div>
 
-### Most Used Languages
-
 <p align="center">
   <a href="https://github.com/EbenBoakye">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbenBoakye&langs_count=8&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&layout=compact" alt="Most Used Languages" />
