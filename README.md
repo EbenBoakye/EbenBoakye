@@ -19,7 +19,7 @@ Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/17
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbenBoakye&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
-
+<br/>
 
 <p align="center">Top Repositories</p>
 
