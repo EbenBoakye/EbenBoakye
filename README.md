@@ -2,32 +2,7 @@
 Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
-A Software Engineer and an IT Support Specialist.
-----------------------------------------------------
-
-I've been learning to code for the past 4 years now, and the journey has been exciting
-
-* 🌍  I'm based in London, United Kingdom
-* 🖥️  See my portfolio [Here](http://eboakye.me)
-* ✉️  You can contact me at [boakye.ebenezer@aol.com](mailto:boakye.ebenezer@aol.com)
-
-* 🧠  I'm currently learning IT Security and Typescript
-* 🤝  I'm open to collaborating on interesting and innovative projects
-
-<p align="left">
-  <a href="https://www.github.com/EbenBoakye" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/EbenBoakye?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" alt="GitHub Followers" />
-  </a>
-  <a href="https://www.github.com/EbenBoakye" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/ebenezer-boakye-033093247" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
-
-
-## Languages Framework and Tools
+## Languages - Frameworks - Tools
 ----------------------------------------------------
 
 <p align="center">
@@ -35,8 +10,6 @@ I've been learning to code for the past 4 years now, and the journey has been ex
 </p>
 </br>
 
-
-<p><h3>My GitHub Stats</h3></p>
 
 <div style="display: flex; justify-content: space-between;">
   <a href="http://www.github.com/EbenBoakye">
@@ -47,7 +20,11 @@ I've been learning to code for the past 4 years now, and the journey has been ex
   </a>
 </div>
 
-<p align=center><h3>Top Repositories</h3></p>
+<p align="center">
+  <h3>Top Repositories</h3>
+</p>
+
+<p align="center">Here are some of my top projects:</p>
 
 <div width="100%" align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/EbenBoakye/ShopByStock" style="width: 45%; min-width: 300px;">
