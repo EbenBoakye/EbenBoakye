@@ -21,7 +21,7 @@ Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/17
 </div>
 
 
-<p align="center"><h3>Top Repositories</h3></p>
+<p align="center">Top Repositories</p>
 
 <div width="100%" align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/EbenBoakye/ShopByStock" style="width: 45%; min-width: 300px;">
