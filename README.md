@@ -1,9 +1,13 @@
+<div align="center">
+  <h1>Hi there, I'm Ebenezer!</h1>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome gif" />
+</div>
+</br>
 
-Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=================================================================================================================================
+<p>
+  <h4 align="center">Languages - Frameworks - Tools</h4>
+</p>
 
-## Languages - Frameworks - Tools
-----------------------------------------------------
 
 <p align="center">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -24,11 +28,9 @@ Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/17
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
+<br/>
 
-</br>
-
-
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   <a href="http://www.github.com/EbenBoakye" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=EbenBoakye&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="EbenBoakye's GitHub stats" style="width: 45%;" />
   </a>
@@ -39,19 +41,22 @@ Hi there, I'm Ebenezer!![](https://user-images.githubusercontent.com/18350557/17
 
 <br/>
 
-<p align="center">Top Repositories</p>
-
-<div width="100%" align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/EbenBoakye/ShopByStock" style="width: 45%; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=ShopByStock&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/EbenBoakye/Calories_Counter-master" style="width: 45%; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=Calories_Counter-master&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+<div align="center">
+  <h3>Top Repositories</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/EbenBoakye/ShopByStock" style="width: 45%; min-width: 300px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=ShopByStock&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/EbenBoakye/Calories_Counter-master" style="width: 45%; min-width: 300px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=Calories_Counter-master&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+  </div>
 </div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <a href="https://github.com/EbenBoakye">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbenBoakye&langs_count=8&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&layout=compact" alt="Most Used Languages" />
   </a>
-</p>
+</div>
