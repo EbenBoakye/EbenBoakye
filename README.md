@@ -1,13 +1,10 @@
-<div align="center">
-  <h1>Hi there, I'm Ebenezer!</h1>
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome gif" />
-</div>
-</br>
 
+  <h1 align="center"> Hi there, I'm Ebenezer!
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome gif" width = "4%"/>
+  </h1>
 <p>
   <h4 align="center">Languages - Frameworks - Tools</h4>
 </p>
-
 
 <p align="center">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -39,8 +36,6 @@
   </a>
 </div>
 
-<br/>
-
 <div align="center">
   <h3>Top Repositories</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -53,10 +48,9 @@
   </div>
 </div>
 
-<br/>
-
 <div align="center">
-  <a href="https://github.com/EbenBoakye">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbenBoakye&langs_count=8&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&layout=compact" alt="Most Used Languages" />
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbenBoakye&langs_count=8&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&layout=compact" style="max-width:100%;">
+  <img height="160em" src="https://media1.tenor.com/m/2eIdqvfcIrkAAAAC/taking-off-shades-mario.gif" style="max-width:100%;">
 </div>
+
+
