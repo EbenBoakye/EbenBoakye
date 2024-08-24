@@ -29,7 +29,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: EbenBoakye
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: dist/snake.svg?palette=github-light
 
       # Push the generated snake.svg file to the output branch
       - name: Push snake.svg to the output branch
