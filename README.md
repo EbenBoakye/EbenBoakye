@@ -53,4 +53,6 @@
   <img height="160em" src="https://media1.tenor.com/m/2eIdqvfcIrkAAAAC/taking-off-shades-mario.gif" style="max-width:100%;">
 </div>
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/EbenBoakye/EbenBoakye/output/snake.svg" alt="Snake animation" />
