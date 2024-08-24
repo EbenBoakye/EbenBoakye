@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <h3>Top Repositories</h3>
+  <h4>Top Repositories</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://github.com/EbenBoakye/ShopByStock" style="width: 45%; min-width: 300px;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EbenBoakye&repo=ShopByStock&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
