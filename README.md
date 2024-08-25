@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<details>
+<details align="center">
   <summary align="center">🐍🐍</summary>
 
   ![Snake animation](https://raw.githubusercontent.com/EbenBoakye/EbenBoakye/output/snake.svg)
