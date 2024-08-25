@@ -55,4 +55,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EbenBoakye/EbenBoakye/output/snake.svg" alt="Snake animation" />
+<details>
+  <summary align="center">🐍🐍</summary>
+
+  ![Snake animation](https://raw.githubusercontent.com/EbenBoakye/EbenBoakye/output/snake.svg)
+
+</details>
+
