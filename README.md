@@ -27,11 +27,6 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EbenBoakye&show_icons=true&locale=en" alt="ebenboakye" /></p>
 <div align="center">
   <a href="http://www.github.com/EbenBoakye" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=EbenBoakye&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="EbenBoakye's GitHub stats" style="width: 45%;" />
