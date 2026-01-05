@@ -37,7 +37,6 @@
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbenBoakye&langs_count=12&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&layout=compact" style="max-width:100%;">
   <img height="160em" src="https://media1.tenor.com/m/2eIdqvfcIrkAAAAC/taking-off-shades-mario.gif" style="max-width:100%;">
 </div>
 
