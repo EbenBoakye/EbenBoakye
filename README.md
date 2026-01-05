@@ -5,6 +5,27 @@
   <h1 align="center"> Hi there, I'm Ebenezer!
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome gif" width = "4%"/>
   </h1>
+<h4 align="center">I am an IT Operations Consultant / Software Engineer in the United Kingdom 🇬🇧 currently at FDM Group 💼 </h4> 
+
+<h4 align="center">
+  Feel free to check out my 
+  <a href="https://eboakye.me" target="_blank"><strong>portfolio website</strong></a> 
+  to learn more about me. Let’s connect! 😉
+</h4>
+ 
+
+<!-- Optional: Quick badges (replace USERNAME + links) -->
+<p align="center">
+  <a href="https://github.com/EbenBoakye?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/EbenBoakye?style=for-the-badge">
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories&sort=stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/EbenBoakye?style=for-the-badge">
+  </a>
+  <a href="www.linkedin.com/in/ebenezer-boakye-033093247">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  </a>
+</p>  
 <p>
   <h4 align="center">Languages - Frameworks - Tools</h4>
 </p>
@@ -30,10 +51,16 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=EbenBoakye&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EbenBoakye&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<details align="center">
+  <summary><b>🏆 GitHub Stats & Activity (click to expand)</b></summary>
+  <br/>
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app?username=EbenBoakye&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EbenBoakye&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  </div>
+</details>
+
 
 
 
