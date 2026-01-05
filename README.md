@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=EbenBoakye&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="EbenBoakye's GitHub stats" style="width: 45%;" />
   </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenboakye&label=Profile%20views&color=0e75b6&style=flat" alt="ebenboakye" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EbenBoakye&label=Profile%20views&color=0e75b6&style=flat" alt="ebenboakye" /> </p>  
   <a href="http://www.github.com/EbenBoakye">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbenBoakye&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="width: 50%;" />
   </a>
