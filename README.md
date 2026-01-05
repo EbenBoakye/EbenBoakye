@@ -36,9 +36,7 @@
 </div>
 
 
-<div align="center">
-  <img height="160em" src="https://media1.tenor.com/m/2eIdqvfcIrkAAAAC/taking-off-shades-mario.gif" style="max-width:100%;">
-</div>
+
 
 <br clear="both">
 
@@ -48,4 +46,6 @@
   ![Snake animation](https://raw.githubusercontent.com/EbenBoakye/EbenBoakye/output/snake.svg)
 
 </details>
-
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=9&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
